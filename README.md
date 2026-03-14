@@ -40,7 +40,7 @@ Model
     Service Layer
 
 # Contains business logic
-    Handles caching and orchestrates repository calls
+    Handles caching and manages repository calls.
 
 # Repository Interface
     Defines the contract for data operations
@@ -52,4 +52,4 @@ Model
     Represents the users table and interacts with the database
 
 ## Author
-Prathamesh Shivaji Chavan
+Prathamesh Chavan
