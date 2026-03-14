@@ -6,9 +6,9 @@ This project is a simple **User Management API** built using Laravel. It allows 
 
 ## Tech Stack
 
-* PHP 8.x
-* Laravel 10.x
-* MySQL
+* PHP 8.2
+* Laravel 12
+* PostgreSQL 
 
 ## Key Features
 
